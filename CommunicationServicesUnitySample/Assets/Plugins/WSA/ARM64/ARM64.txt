@@ -1,0 +1,8 @@
+dll Path
+- azure.communication.calling.1.0.0-beta.28\runtimes\win10-arm64\native
+
+Select platform for plugin
+- WSAPlayer
+
+Platform settings CPU
+- ARM64

@@ -1,0 +1,5 @@
+winmd Path
+- azure.communication.calling.1.0.0-beta.28\lib\uap10.0
+
+Select platform for plugin
+- WSAPlayer
